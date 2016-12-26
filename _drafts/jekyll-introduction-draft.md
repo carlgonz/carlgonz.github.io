@@ -1,6 +1,6 @@
 ---
 title: Jekyll Introduction Draft
-date: 2016-12-26 00:39:11.052000000 Z
+date: 2016-12-26 00:39:19.036000000 Z
 categories:
 - lessons
 tags:
