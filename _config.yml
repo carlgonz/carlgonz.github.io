@@ -1,6 +1,6 @@
 ---
 title: carlgonz
-timezone: UTC
+timezone: America/Santiago
 collections:
   posts:
     title: Posts
@@ -21,3 +21,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
+Field name: 
