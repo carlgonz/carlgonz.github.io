@@ -1,9 +1,17 @@
 ---
+title: Jekyll Introduction Draft
+date: 2016-12-26 00:39:11.052000000 Z
+categories:
+- lessons
+tags:
+- intro
+- beginner
+- jekyll
+- tutorial
 layout: post
-category : lessons
-tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+tagline: Supporting tagline
 ---
+
 {% include JB/setup %}
 
 
